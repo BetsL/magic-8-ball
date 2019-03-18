@@ -6,16 +6,19 @@ body {
   background-color: #f8f8f8;
   background-image: url('bkgd2.png');
 }
+
 .page {
   width: 80%;
   max-width: 960px;
   margin: 0 auto;
 }
+
 .ball, .button {
   margin: 0 auto;
   position:relative;
   width:80%;
 }
+
 .answer {
   position:absolute;
   width:14%;
